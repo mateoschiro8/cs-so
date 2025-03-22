@@ -1,2 +1,1 @@
-# cs-so
-Sistemas Operativos - 1C2025
+Repo de Sistemas Operativos - 1C2025
