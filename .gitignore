@@ -3,7 +3,3 @@
 *.exe
 *.obj
 *.elf
-
-wordInverter
-cuitChecker
-peopleSystem
