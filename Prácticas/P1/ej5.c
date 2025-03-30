@@ -26,14 +26,14 @@ void Maggie() {
 
 void Homero() {
     
+    printf("Soy Homero\n");
+
     if(fork() == 0) Lisa();
 
     if(fork() == 0) Bart();
     
     if(fork() == 0) Maggie();
     
-    printf("Soy Homero\n");
-
     wait(NULL);
     wait(NULL);
     wait(NULL);
